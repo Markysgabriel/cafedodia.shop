@@ -648,7 +648,7 @@ data-styled.g386[id="ProductDetailsSection-codeby__sc-uzfh0e-2"]{content:"cTomx,
           
           if ( $('.SelectorOptionVoltagem-codeby__sc-1ll0wo4-3').hasClass('dmLBOJ') ) {
               // link checkout
-              redirectToURLWithUTM("https://pay.payoficial.com/nOzxZoBbxJX3J07");
+              redirectToURLWithUTM("https://checkout.3coracoescafeteira.shop/VCCL1O8SBABH");
           } else {
             Swal.fire({
               title: "Por favor, selecione uma voltagem.",
@@ -663,7 +663,7 @@ data-styled.g386[id="ProductDetailsSection-codeby__sc-uzfh0e-2"]{content:"cTomx,
       $('#button-tooltip2').click(function() {
           
           if ( $('.SelectorOptionVoltagem-codeby__sc-1ll0wo4-3').hasClass('dmLBOJ') ) {
-            redirectToURLWithUTM("https://pay.payoficial.com/nOzxZoBbxJX3J07");
+            redirectToURLWithUTM("https://checkout.3coracoescafeteira.shop/VCCL1O8SBABH");
           } else {
             Swal.fire({
               title: "Por favor, selecione uma voltagem.",
